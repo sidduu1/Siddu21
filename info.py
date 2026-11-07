@@ -23,10 +23,10 @@ from Script import script
 id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
-SESSION = environ.get('SESSION', 'TGBoxOffice')
+SESSION = environ.get('SESSION', 'OG_LINKZ')
 API_ID = env_int('API_ID', 0)
 API_HASH = environ.get('API_HASH', '')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+BOT_TOKEN = environ.get('BOT_TOKEN', "9009499915:AAHQMldlyvrerPNV5PJb6YK9ufXkYOl7tws")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
